@@ -1,4 +1,8 @@
-$('.slickSlider').slick(); 
+$('.slickSlider').slick({
+  dots: true,
+  autoplay: true,
+  centermode: true,
+}); 
       
 
 
