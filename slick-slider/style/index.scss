@@ -82,15 +82,24 @@ body {
 }
 
 .slide1 {
-  background-color: #180349;
+  background-image: url("/img/blue.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .slide2 {
-  background-color: #073104;
+  background-image: url("/img/red.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .slide3 {
-  background-color: #180105;
+  background-image: url("/img/purple.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #slide-control00::before {
